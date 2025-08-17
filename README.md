@@ -14,18 +14,18 @@ data and generate valuable insights.
 
 # Performance Overview
 
-- **Snapshot of key performance indicators (KPIs) such as revenue, RevPAR (Revenue Per Available Room), and occupancy percentage.
-- **Detailed metrics including average daily rates (ADR) and guest satisfaction scores.
+- Snapshot of key performance indicators (KPIs) such as revenue, RevPAR (Revenue Per Available Room), and occupancy percentage.
+- Detailed metrics including average daily rates (ADR) and guest satisfaction scores.
 
 # Revenue Overview
 
-- **Analysis of revenue breakdowns across cities, hotel categories, and booking platforms.
-- **Insights aimed at optimizing sales strategies and improving revenue streams.
+- Analysis of revenue breakdowns across cities, hotel categories, and booking platforms.
+- Insights aimed at optimizing sales strategies and improving revenue streams.
 
 # Booking Overview
 
-- **Examination of booking patterns, cancellations, and guest behavior.
-- **Actionable insights to enhance operational efficiency and drive revenue growth.
+- Examination of booking patterns, cancellations, and guest behavior.
+- Actionable insights to enhance operational efficiency and drive revenue growth.
 
 # Skills and Technologies Used
 
