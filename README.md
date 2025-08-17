@@ -35,7 +35,8 @@ data and generate valuable insights.
 - Technical Proficiency: Utilized Power BI and DAX for data modeling and analysis.
 - Industry Terminology: Familiarized with terms such as ADR (Average Daily Rate), DSRN (Daily Sales Report Number), DBRN (Daily Booking Report Number),
   RevPAR, and other hospitality-related metrics.
-- Crafting these views required a blend of analytical prowess and creativity, resulting in valuable insights and recommendations.
+
+Crafting these views required a blend of analytical prowess and creativity, resulting in valuable insights and recommendations.
 
 # Live Dashboard
 
